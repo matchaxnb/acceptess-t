@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+
+<link rel="stylesheet" href="style.css" />
+<meta charset="utf-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script type="text/javascript" src="quizz.js"></script>
+<script type="text/javascript">
+console.log('quizz');
+$.getJSON('questions.json', function(d) {
+    build_quizz(d, "Questionnaire sur la transidentité", "q_ti").appendTo($('#quizz'));
+    validate_answers();
+})
+</script>
+</head>
+<body>
+<h1>Acceptess-T - quizz</h1>
+<button class="reset_quizz">Recommencer le quizz</button>
+<div id="quizz">
+</div>
+<button class="reset_quizz">Recommencer le quizz</button>
+</body>
+</html>

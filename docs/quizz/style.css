@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+div.quizz {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+div.question h2 {
+    text-align: center;
+}
+div.question ol {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+div.question ol li {
+    flex-grow: 1;
+    min-height: 2em;
+    list-style-type: upper-alpha;
+}
+div.question input[type="radio"] {
+    margin-right: 1em;
+}
+div.question li {
+    margin-bottom: 1em;
+}
+div.question.right_answer {
+    background-color: lime;
+}
+
+div.question.wrong_answer {
+    background-color: red;
+}

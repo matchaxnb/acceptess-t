@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Qu'est-ce qu'une femme transgenre ?",
+        "answers": [
+            "Un homme qui se sent femme",
+            "Une femme qui a un sexe d'homme",
+            "Un homme qui devient femme",
+            "Une femme qui a été assignée homme à la naissance"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Qu'est-ce qu'être trans ?",
+        "answers": [
+            "Ne pas vouloir vivre dans son sexe de naissance",
+            "Une mode",
+            "Avoir fait des modifications physiques pour vivre dans un genre différent de celui de naissance",
+            "La non-concordance entre l'assignation de naissance et le genre vécu"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Qu'est-ce qu'un homme trans ?",
+        "answers": [
+            "Une femme qui se sent homme",
+            "Un homme qui a un sexe de femme",
+            "Une femme qui devient un homme",
+            "Un homme qui a été assigné femme à la naissance"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Qu'appelle-t-on un parcours de transition ?",
+        "answers": [
+            "Il n’y a pas de parcours établi, chaque personne détermine son parcours",
+            "Une hormonothérapie pour modifier son aspect physique",
+            "Une chirurgie de changement de sexe",
+            "Une hormonothérapie, et une chirurgie"
+        ],
+        "right": 0
+    },
+    {
+        "title": "Quelles sont les démarches pour effectuer un changement d'état civil ?",
+        "answers": [
+            "Il faut effectuer des opérations chirurgicales",
+            "Il faut fournir des témoignages, et passer devant un juge",
+            "Il faut obtenir des certificats médicaux attestant une hormonothérapie, et un certificat psychiatrique",
+            "Il faut le déclarer devant un officier d'état civil"
+        ],
+        "right": 1
+    },
+    {
+        "title": "Qu'est-ce que le mégenrage ?",
+        "answers": [
+            "Dire monsieur à une personne trans",
+            "Dire madame à une personne trans",
+            "Ça n'existe pas",
+            "Ne pas respecter verbalement le genre vécu d’une personne"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Qu'est-ce que l'expression de genre ?",
+        "answers": [
+            "S'exprimer verbalement suivant un genre",
+            "S'habiller suivant un genre social",
+            "Les 3 réponses",
+            "Se déplacer et bouger suivant des codes sociaux de genre"
+        ],
+        "right": 2
+    },
+    {
+        "title": "Qu'est-ce que le genre social ?",
+        "answers": [
+            "La construction sociale des rôles attribués aux différents genres",
+            "La manière de s’exprimer dans la vie",
+            "Le sexe attribué à la naissance",
+            "L’activité professionnelle d’une personne"
+        ],
+        "right": 0
+    },
+    {
+        "title": "Qu'est-ce que l'identité de genre ?",
+        "answers": [
+            "Le genre dont la société identifie une personne",
+            "Ce qu’il y a d’écrit sur la pièce d’identité",
+            "Le genre à laquelle une personne s’identifie",
+            "Il n’y a pas d’identité de genre, juste homme ou femme"
+        ],
+        "right": 2
+    },
+    {
+        "title": "Qu'est-ce que la transphobie ?",
+        "answers": [
+            "Agresser une personne parce qu’elle est trans",
+            "Tout acte discriminant envers une personne du fait de sa transidentité",
+            "Insulter une personne trans",
+            "Interdire l’accès dans un lieu parce qu’elle est trans"
+        ],
+        "right": 1
+    },
+    {
+        "title": "Quelle est l'espérance de vie d'une personne trans ?",
+        "answers": [
+            "La même que les autres personnes",
+            "Entre 50 et 60 ans",
+            "Entre 65 et 70 ans",
+            "Entre 35 et 41 ans"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Combien y-a-t-il de personnes trans en France ?",
+        "answers": [
+            "15000",
+            "150000",
+            "Il n’y a pas de nombre précis",
+            "50000"
+        ],
+        "right": 2
+    },
+    {
+        "title": "Combien y-a-t-il de personnes trans assassinées dans le monde par an ?",
+        "answers": [
+            "150",
+            "3000",
+            "Le même pourcentage que pour les autres populations",
+            "368"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Quelle est la probabilité pour qu'une femme trans soit contaminée par le VIH ?",
+        "answers": [
+            "2 fois plus que les autres populations",
+            "51 fois plus élevée que les autres populations",
+            "La même que pour les autres populations",
+            "315 fois plus élévée"
+        ],
+        "right": 1
+    },
+    {
+        "title": "Quel est le pourcentage de femmes trans contaminées par le VIH au monde ?",
+        "answers": [
+            "10%",
+            "5%",
+            "La même que pour les autres populations",
+            "26%"
+        ],
+        "right": 3
+    },
+    {
+        "title": "Combien de personnes trans sont contaminées par le VIH au monde ?",
+        "answers": [
+            "3 millions",
+            "50 millions",
+            "Il n'y a pas de chiffres",
+            "1 million"
+        ],
+        "right": 2
+    },
+    {
+        "title": "Combien y a-t-il de personnes trans séropositives en France ?",
+        "answers": [
+            "125",
+            "10263",
+            "530",
+            "764"
+        ],
+        "right": 3
+    }
+]
