@@ -25,10 +25,10 @@ div.question input[type="radio"] {
 div.question li {
     margin-bottom: 1em;
 }
-div.question.right_answer {
+.validated_quizz div.question.right_answer {
     background-color: lime;
 }
 
-div.question.wrong_answer {
+.validated_quizz div.question.wrong_answer {
     background-color: red;
 }

@@ -11,6 +11,9 @@
 $.getJSON('questions.json', function(d) {
     build_quizz(d, "Questionnaire sur la transidentité", "q_ti").appendTo($('#quizz'));
     validate_answers();
+    $('.confirm_quizz').click(function() {
+        confirm_quizz('q_ti');
+    });
 })
 </script>
 </head>
@@ -19,7 +22,9 @@ $.getJSON('questions.json', function(d) {
 <button class="reset_quizz">Recommencer le quizz</button>
 <div id="quizz">
 </div>
+<button class="confirm_quizz">Soumettre les résultats</button>
 <button class="reset_quizz">Recommencer le quizz</button>
+<hr />
 <a href="https://www.acceptess-t.com/">Acceptess-T sur le Web</a>
 <a href="https://www.facebook.com/acceptess.transgenres/">Acceptess-T sur Facebook</a>
 <h1>Relayer ce quizz</h1>
